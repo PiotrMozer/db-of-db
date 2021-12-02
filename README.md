@@ -14,11 +14,11 @@ This is list of submodules, include dedicated dataset repositories, you can down
 
 ## Dataset types
 
-You can found here data, common used in web apps like list of countries with language codes, phone prefixes, flags, airports codes, teritory data in Poland from TERYT DB, data from EU TERCET or NUTS db, and strict technical data used in hardware applications like USB Vendor IDs, PCI IDs, MAC Vendor list, ACPI codes, HTTP status codes, BIOS codes and so on.
+You can find here data, commonly used in web apps like list of countries with language codes, phone prefixes, flags, airports codes, teritory data in Poland from TERYT DB, data from EU TERCET or NUTS db, and strict technical data used in hardware applications like USB Vendor IDs, PCI IDs, MAC Vendor list, ACPI codes, HTTP status codes, BIOS codes and so on.
 
 ## Other formats?
 
-No problem - if you work in e..g in Python, you can download Python version, and easily export to desired format.
+No problem - if you work in e.g. in Python, you can download Python version, and easily export to desired format.
 
 ## Something else?
 
