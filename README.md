@@ -2,7 +2,7 @@
 
 This is collection of databases data, packed as code libraries in popular languages.
 
-Among others:
+Mostly in:
 - Python
 - PHP
 - C++
